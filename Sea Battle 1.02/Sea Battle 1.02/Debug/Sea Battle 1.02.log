@@ -1,0 +1,12 @@
+﻿  Shoot.cpp
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(42,9): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(49,11): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(58,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(65,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(75,9): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(76,9): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(83,11): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(92,10): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(93,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Programming\Sea Battle 1.02\Sea Battle 1.02\Shoot.cpp(100,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Sea Battle 1.02.vcxproj -> D:\Programming\Sea Battle 1.02\Debug\Sea Battle 1.02.exe
